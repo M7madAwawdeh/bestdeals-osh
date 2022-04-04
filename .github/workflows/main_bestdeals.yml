@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bestdeals'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC183D1C54234A83B38DD2322116E313 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2234EC1DD34B452EB265BD02EC196C40 }}
